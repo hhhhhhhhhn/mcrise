@@ -1,0 +1,13 @@
+schedule clear rise:riselava3s
+schedule clear rise:riselava10s
+schedule clear rise:riselava30s
+schedule clear rise:riselava1m
+schedule clear rise:riselava5m
+schedule clear rise:riselava10m
+schedule clear rise:risewater3s
+schedule clear rise:risewater10s
+schedule clear rise:risewater30s
+schedule clear rise:risewater1m
+schedule clear rise:risewater5m
+schedule clear rise:risewater10m
+schedule clear rise:lower

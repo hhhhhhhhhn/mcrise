@@ -6,11 +6,7 @@ First, download this repository as a `.zip` file. Open it, and extract the
 `mcrise-master` folder to your save's `datapacks` folder.
 
 ## Usage
-To start the water level rise, run `/function rise:startwater`. To start with
-lava, use `/function rise:startlava`
-
-## Change time per rise
-By default, the water/lava levels will rise 1 block every minute. To change
-this, run the `generate.js` file with nodejs, with the number of seconds as
-an argument. For example, `node generate 120` will make the water level rise
-every two minutes.
+To initialize borders and start the teleport, run `/function rise:init`. Then,
+select one of the helper functions. For example, if you want lava to rise every
+10 seconds, run `/function rise:riselava10s`. If you want the level to go down
+run `/function rise:lower`, and to stop run `/function rise:stop`.

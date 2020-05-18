@@ -1,0 +1,1 @@
+summon minecraft:armor_stand 0 1 0 {Invisible:1b,CustomName:"\"Level\"",CustomNameVisible:0b,Invulnerable:1b,NoGravity:1b,Marker:1b}
